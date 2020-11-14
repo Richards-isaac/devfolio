@@ -193,30 +193,8 @@ Once you have done with your setup. You need to put your website online!
 I highly recommend to use [Github Pages](https://pages.github.com/) to achieve this on the EASIEST WAY.
 
 
-## 🤝 Contributing <a href = "https://discord.gg/YRm6nn8"><img alt="Discord" src="https://img.shields.io/discord/758269170151587852"></a>
-
-Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/richards-isaac/DevFolio/issues)! We need all the help we can get to make this project awesome! You can also join the discord server to give suggestions.
-
-## Contributors ✨
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/shadowtime2000"><img src="https://avatars1.githubusercontent.com/u/66655515?s=180&v=4" width="100px;" alt=""/><br /><sub><b>Shadowtime2000</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/gasparnd"><img src="https://avatars3.githubusercontent.com/u/36377522?s=180&u=3b1f554c19b5dc2e21bf0aef269f44ee5bf87fdf&v=4" width="100px;" alt=""/><br /><sub><b>Gaspar Dolcemascolo</b></sub></a><br /></td>
-  </tr>
-</table>
 
 ### Don't forget to ⭐ and 🍴 the repository and share it with others.
-
-## Stargazers ✨
-
-Thanks goes to these wonderful people.
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/SeraphicWolf"><img src="https://avatars1.githubusercontent.com/u/29392808?s=180&u=6bbb90ea2fa3549f6e63e266550084fd6b20fcff&v=4" width="100px;" alt=""/><br /><sub><b>Sebastian</b></sub></a><br /></td>
-   
-</table>
 
 ## References 👏🏻
 - Some Design and Implementation Ideas are taken from <a href="https://repl.it/talk/templates/Portfolio-Site-Template/37272">Lilykhan's Portfolio Site Template</a> made for repl.it template jam.
