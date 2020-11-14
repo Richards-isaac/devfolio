@@ -192,19 +192,6 @@ Once you have done with your setup. You need to put your website online!
 
 I highly recommend to use [Github Pages](https://pages.github.com/) to achieve this on the EASIEST WAY.
 
-## Authors
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/achaljhawar"><img src="https://avatars2.githubusercontent.com/u/35405812?s=460&u=0cf54a210cd79440ebf51fdc7423b65877c87016&v=4" width="100px;" alt=""/><br /><sub><b>Achal Jhawar</b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/Lilykhan786"><img src="https://avatars1.githubusercontent.com/u/47777673?s=460&u=b5531e40e1b9a31078e024f861116678fecaa826&v=4" width="100px;" alt=""/><br /><sub><b>Lilykhan
-</b></sub></a><br /></td>
-  </tr>
-</table>
-
-## License 📄 <a href = "https://github.com/achaljhawar/DevFolio/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/achaljhawar/DevFolio?style=flat-square"></a>
-
-This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details
 
 ## 🤝 Contributing <a href = "https://discord.gg/YRm6nn8"><img alt="Discord" src="https://img.shields.io/discord/758269170151587852"></a>
 
