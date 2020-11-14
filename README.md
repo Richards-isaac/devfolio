@@ -37,7 +37,7 @@ From your command line, first clone DevFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/achaljhawar/DevFolio
+$ git clone https://github.com/richards-isaac/DevFolio
 
 # Go into the repository
 $ cd DevFolio
@@ -208,7 +208,7 @@ This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENS
 
 ## 🤝 Contributing <a href = "https://discord.gg/YRm6nn8"><img alt="Discord" src="https://img.shields.io/discord/758269170151587852"></a>
 
-Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/achaljhawar/DevFolio/issues)! We need all the help we can get to make this project awesome! You can also join the discord server to give suggestions.
+Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/richards-isaac/DevFolio/issues)! We need all the help we can get to make this project awesome! You can also join the discord server to give suggestions.
 
 ## Contributors ✨
 
